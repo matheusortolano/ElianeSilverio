@@ -1,0 +1,22 @@
+:root {
+  --color-dark: #1d1c22;
+  --color-dark-soft: #27262d;
+  --color-light: #f7f4f0;
+  --color-champagne: #e5dda5;
+  --color-peach: #f5d3bd;
+  --color-text: #202026;
+  --color-muted: #6d6a68;
+  --color-border: rgba(32,32,38,.16);
+  --color-border-dark: rgba(247,244,240,.18);
+  --font-family: "Museo Sans", "Montserrat", "Inter", sans-serif;
+  --container: 1280px;
+  --gutter: clamp(24px, 5.6vw, 108px);
+  --section-space: clamp(76px, 8vw, 128px);
+  --space-sm: 12px;
+  --space-md: 24px;
+  --space-lg: 48px;
+  --radius: 14px;
+  --button-radius: 9px;
+  --transition: 220ms ease;
+  --header-height: 96px;
+}
